@@ -1,6 +1,6 @@
 <?php
 // config
-$cfg["answersfile"] = "data/answers.csv";
+$cfg["answersfile"] = "answers.csv";
 $cfg["scrolling"] = true;
 $cfg["user"] = "admin";
 $cfg["pass"] = "admin";
