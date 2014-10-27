@@ -17,10 +17,10 @@
     <td><ul>
       <li><span class="title">What is it</span><br>
           ChatBot is a fast chat robot/automatic autoresponder. <br>
-          You can use it, fo example on FAQ pages with a large amount of questions/answers.<br>
-          ChatBot stores all data in single csv file (no database needed) and has
-        easy questions/answers admin interface.<br>
-        <br>
+          ChatBot Supports large amount of questions/answers.<br>
+          ChatBot stores all data in single csv file (no database needed) and has easy questions/answers admin interface.<br>
+          Needs PHP v5.*<br>        
+          <br>
       </li>
       <li><span class="title">Demo</span><br>    
           <a href="bot.php">Bot</a>&nbsp;&nbsp; <a href="admin.php">Admin</a> (user:
