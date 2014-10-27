@@ -1,0 +1,87 @@
+body{
+	font-size: 12px;
+	background: #292b30 url("img/bg.png") repeat;
+}
+.btn {
+	background-color: #666666;
+	border: 1px outset #364356;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFFFFF;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius:3px;
+	height:30;
+}
+td {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFFFFF;
+}
+.inp {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	height:30;
+	font-size: 16px;
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius:3px;
+	border: 1px solid #364356;
+}
+.top {
+	border-top-width: 1px;
+	border-top-style: dashed;
+	border-top-color: #FFFFFF;
+	width:178;
+    height:50;
+}
+.bt {
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #FFFFFF;
+}
+.scr {
+	overflow: auto;
+}
+a:link
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFFFFF;
+}
+a:hover
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFFFFF;
+	text-decoration:line-through;
+}
+a:visited
+{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFFFFF;
+}
+table{
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius:3px;
+	width:100%;
+	height:98%;
+}
+input[type=text]{
+	border: 1px solid #364356;
+}
+.a
+{
+	color:#B9B9B9;
+}
+.q
+{
+	color:#FFFFFF;
+}
+form{
+	margin:0;
+	padding:0;
+}
+.on{
+	background: #34363b;
+}
+.log{
+	font-size: 20px;
+}
+
