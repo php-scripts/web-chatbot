@@ -22,10 +22,6 @@
         easy questions/answers admin interface.<br>
         <br>
       </li>
-      <li><span class="title">Download</span><br>    
-          <a href="<?php echo str_replace(" ",".",strtolower($cfg["wsite_vs"])); ?>.zip">Download Source</a> (zip)<br>
-          <br>    
-        </li>
       <li><span class="title">Demo</span><br>    
           <a href="bot.php">Bot</a>&nbsp;&nbsp; <a href="admin.php">Admin</a> (user:
           admin&nbsp; pass:
