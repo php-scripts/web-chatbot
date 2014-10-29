@@ -18,7 +18,7 @@
   </tr>
     <tr>
       <td height="98%" class="scr">
-	  <div class="log" style="<?php echo (($cfg["scrolling"]) ? "overflow: auto;height:100%;" : "") ?>">
+	  <div class="log" style="<?php echo (($cfg["scrolling"] == true) ? "overflow: auto;height:100%;" : "") ?>">
 	  	<?php
 		
 		if (isset($_POST["submit"]))
